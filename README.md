@@ -9,4 +9,4 @@
 
 ### Top Languages in my repositories 📚
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L1K3D&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L1K3D&hide_progress=false)
